@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HackingAllYT
 - 👀 I’m interested in security and full stack development.
-- 🌱 I’m currently learning Angular 12 framework.
-- 💞️ I’m looking to collaborate on any type of educational program or any computer development.
+- 🌱 I’m currently working as Full Stack developer.
+- 💞️ I am looking to collaborate in any type of educational program or any computer development, especially in artificial intelligence.
 - 📫 To reach me you can send me an e-mail.
 
 <!---
